@@ -1,0 +1,7 @@
+,index,Ridge,LightGBM,NIFTY_bench
+0,sharpe_ann,-0.115,-2.773,0.934
+1,hit_ratio,0.4695,0.4491,0.5493
+2,max_drawdown,-12.82,-22.253,-5.387
+3,total_return,-2.35,-20.04,3.57
+4,profit_factor,0.981,0.63,1.169
+5,cagr,-8.11,-54.78,13.27

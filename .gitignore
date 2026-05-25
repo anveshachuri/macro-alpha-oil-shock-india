@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+oilshock/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+data/raw/*.parquet
+data/processed/*.parquet
+
+# Models
+outputs/models/*.pkl
+
+# OS
+.DS_Store
+Thumbs.db

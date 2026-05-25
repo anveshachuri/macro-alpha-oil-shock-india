@@ -1,0 +1,2 @@
+,n_trades,hit_ratio,mean_pnl_pct,std_pnl_pct,sharpe_trade,sharpe_ann,max_drawdown,total_return,cagr,best_trade,worst_trade,profit_factor
+0,149,0.4832,-0.112,1.033,-0.108,-0.487,-22.72,-16.05,-2.34,2.201,-3.37,0.761

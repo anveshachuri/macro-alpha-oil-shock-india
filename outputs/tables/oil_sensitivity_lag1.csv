@@ -1,0 +1,6 @@
+,sector,lag,corr,p_value,significant
+0,OIL_GAS,1,0.0095,0.6784,False
+1,AUTO,1,-0.0121,0.5941,False
+2,FMCG,1,-0.0088,0.6998,False
+3,IT,1,-0.006,0.7911,False
+4,PHARMA,1,-0.0256,0.2617,False

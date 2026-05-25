@@ -1,0 +1,13 @@
+pandas
+numpy
+scipy
+scikit-learn
+lightgbm
+matplotlib
+seaborn
+pyarrow
+jupyter
+yfinance
+vaderSentiment
+newsapi-python
+feedparser
